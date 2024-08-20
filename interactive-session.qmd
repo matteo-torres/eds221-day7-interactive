@@ -1,0 +1,15 @@
+---
+title: "Day 7 Interactive"
+author: "Matteo Torres"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+# load packages
+library(tidyverse)
+library(palmerpenguins)
+library(lubridate)
+```
+
